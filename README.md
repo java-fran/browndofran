@@ -52,6 +52,3 @@ O backend foi desenvolvido em **Java** utilizando o **VS Code**, enquanto o fron
 * **FlutterFlow**
 * **Git/GitHub** para versionamento do projeto
 
----
-
-Se quiser, posso também criar imagens, banners, badges ou organizar esse README de forma mais estilizada!
