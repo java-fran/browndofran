@@ -51,4 +51,4 @@ O backend foi desenvolvido em **Java** utilizando o **VS Code**, enquanto o fron
 * **Visual Studio Code**
 * **FlutterFlow**
 * **Git/GitHub** para versionamento do projeto
-
+* **Link Swagger** :https://pethan-cs3e.onrender.com/pethan/swagger-ui/index.html
