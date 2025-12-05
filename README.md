@@ -7,7 +7,7 @@ O sistema busca simplificar o fluxo de pedidos, cadastro de produtos e acompanha
 
 ## 📖 Descrição do Projeto
 
-O **Brown do Fran** foi criado com o objetivo de centralizar e organizar o processo de vendas de brownie e outros doces caseiros.
+O **Brown do Fran** foi criado por **Pedro Henrique Francisco da Silva** com o objetivo de centralizar e organizar o processo de vendas de brownie e outros doces caseiros.
 A aplicação permite controlar o estoque, registrar pedidos e exibir informações de forma visual e amigável.
 O backend foi desenvolvido em **Java** utilizando o **VS Code**, enquanto o frontend foi construído no **FlutterFlow**, garantindo uma interface moderna e responsiva.
 
